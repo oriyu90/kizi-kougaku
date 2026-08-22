@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kizi-kougaku.pages.dev/sitemap.xml
+

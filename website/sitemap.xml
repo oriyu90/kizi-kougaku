@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://kizi-kougaku.pages.dev/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://kizi-kougaku.pages.dev/assets/images/og-default.jpg</image:loc>
+      <image:caption>kizi 工学 — 技術と設計を背景から読む。</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kizi-kougaku.pages.dev/articles/2026.8.19.1</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kizi-kougaku.pages.dev/assets/images/og-default.jpg</image:loc>
+      <image:caption>雄武町の「金脈発見」は新たな金山につながるか</image:caption>
+    </image:image>
+  </url>
+</urlset>

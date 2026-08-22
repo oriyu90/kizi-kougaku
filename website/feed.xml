@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kizi 工学</title>
+    <link>https://kizi-kougaku.pages.dev/</link>
+    <description>工学に関わるニュースを、理学や経済とのつながりまで読み解く。</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://kizi-kougaku.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雄武町の「金脈発見」は新たな金山につながるか</title>
+      <link>https://kizi-kougaku.pages.dev/articles/2026.8.19.1</link>
+      <guid isPermaLink="true">https://kizi-kougaku.pages.dev/articles/2026.8.19.1</guid>
+      <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+      <category>工学</category>
+      <category>理学</category>
+      <category>経済</category>
+      <description>世界の金市場、日本の地質、開発条件から、雄武の金銀鉱床の現在地を読み解く。</description>
+    </item>
+  </channel>
+</rss>
