@@ -1,8 +1,10 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "edition": "engineering",
-  "name": "kizi 工学",
+  "name": "kizi 工学 source",
   "origin": "https://kizi-kougaku.pages.dev",
+  "deliveryOrigin": "https://kizi.pages.dev",
+  "repository": "oriyu90/kizi-kougaku",
   "articleRouting": {
     "requireCategories": ["engineering"],
     "excludeCategories": []
