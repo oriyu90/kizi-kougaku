@@ -1,1 +1,4 @@
-/articles/omu-gold-discovery/* /articles/2026.8.19.1 301
+/service-worker.js /service-worker-retire.js 200
+/articles/omu-gold-discovery/* https://kizi.pages.dev/articles/2026.8.19.1 301
+/articles/* https://kizi.pages.dev/articles/:splat 301
+/* https://kizi.pages.dev/?edition=engineering 302
