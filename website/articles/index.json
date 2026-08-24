@@ -23,6 +23,33 @@
       "secondaryCategories": ["science", "economy"],
       "title": "雄武町の「金脈発見」は新たな金山につながるか",
       "description": "世界の金市場、日本の地質、開発条件から、雄武の金銀鉱床の現在地を読み解く。",
+      "translations": {
+        "en": {
+          "title": "Could Omu's ‘gold discovery’ become a new mine?",
+          "subtitle": "The global gold market, Japan's geology and development conditions",
+          "description": "A closer look at the global gold market, Japan's geology and the conditions for development—separating what is known from what remains uncertain."
+        },
+        "pt": {
+          "title": "A ‘descoberta de ouro’ em Omu pode virar uma nova mina?",
+          "subtitle": "Mercado mundial de ouro, geologia japonesa e condições de desenvolvimento",
+          "description": "Uma análise do mercado mundial de ouro, da geologia do Japão e das condições de desenvolvimento, separando o que sabemos do que ainda é incerto."
+        },
+        "de": {
+          "title": "Kann der ‚Goldfund‘ in Omu zu einer neuen Mine werden?",
+          "subtitle": "Goldmarkt, Japans Geologie und Bedingungen für die Erschließung",
+          "description": "Ein Blick auf den globalen Goldmarkt, Japans Geologie und die Bedingungen für eine Erschließung – getrennt nach Bekanntem und Ungewissem."
+        },
+        "zh-CN": {
+          "title": "雄武町的“金矿发现”会成为一座新矿山吗？",
+          "subtitle": "从全球黄金市场、日本地质与开发条件来分析",
+          "description": "从全球黄金市场、日本地质与开发条件出发，区分目前已知的事实与仍待确认的问题。"
+        },
+        "ar": {
+          "title": "هل يمكن أن يتحول «اكتشاف الذهب» في أومو إلى منجم جديد؟",
+          "subtitle": "سوق الذهب العالمي وجيولوجيا اليابان وشروط التطوير",
+          "description": "قراءة في سوق الذهب العالمي وجيولوجيا اليابان وشروط التطوير، مع فصل الحقائق المعروفة عما لم يُحسم بعد."
+        }
+      },
       "readingMinutes": 14,
       "author": "kizi編集部",
       "url": "/articles/2026.8.19.1"
